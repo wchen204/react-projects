@@ -4,7 +4,7 @@ function Header() {
     return (
         <header id="main-header">
             <div id="title">
-                <img src="logo.jpg" alt=""/>
+                <img src="logo.jpg" alt="React Food Logo"/>
                 <h1>Reactfood</h1>
             </div>
 
